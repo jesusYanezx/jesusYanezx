@@ -87,28 +87,6 @@ Currently, my professional focus is on building **production-ready mobile applic
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black\&style=flat-square)
 ![Expo EAS](https://img.shields.io/badge/Expo_EAS-000020?logo=expo\&logoColor=white\&style=flat-square)
 
----
-
-## 💼 Professional Experience
-
-### Cross-Platform Mobile Developer
-
-**Nelumbo Consultores · Feb. 2025 – Present**
-
-* Building mobile applications for **iOS and Android** using React Native, Expo, and Flutter.
-* Implementing local data persistence with **SQLite** to support offline functionality.
-* Integrating REST APIs and developing responsive interfaces focused on usability and user experience.
-
-### Android Mobile Developer / Backend Developer
-
-**Gopenux Lab · Feb. 2024 – Jan. 2025**
-
-* Led the migration of native Android projects from **Java to Kotlin**.
-* Adopted **Jetpack Compose** for modern and optimized interfaces.
-* Developed backend services using **Symfony**.
-* Worked with Docker and Docker Compose for containerized environments.
-* Implemented local storage using SQLite and SharedPreferences.
-* Worked with PostgreSQL, SQLite, and MongoDB.
 
 ---
 
